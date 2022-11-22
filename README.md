@@ -1,12 +1,12 @@
 
-### Drifting Track Prediction for Man OverBoard Rescue
+## Drifting Track Prediction for Man OverBoard Rescue
 
 * This repository contains the code for the 1st place in the DCIC competition. For the specific method, please refer to the paper "Drifting Track Prediction for Man OverBoard Rescue".
 
-#### Data
+### Data
 We use DCIC competition dataset in this code. Please download the dataset at [DCIC Competition](https://www.datafountain.cn/competitions/497/datasets).
 
-#### Code Description
+### Code Description
 **1、JudgeShore.ipynb**  
     
     Determine whether man overboard is docking.
