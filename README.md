@@ -13,7 +13,7 @@ We use DCIC competition dataset in this code. Please download the dataset at [DC
 
 **2、GenerateTrainData.ipynb**  
     
-    This is the code to generate the training data.
+    Generate the training data.
 
 **3、DriftingTrackPrediction.ipynb**  
     
